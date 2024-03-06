@@ -1,5 +1,5 @@
-let posicion =[1, 2, 3, 4, 5];
-let final1 =posicion.slice();
+let palabritas =["se", "da", "casa", "libro"];
+let resultado = palabritas.join("-");
 
 
 
