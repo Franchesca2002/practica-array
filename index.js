@@ -1,7 +1,5 @@
-const frutas = ["manzana", "banana", "naranja"];
- const ultimaFruta = frutas.pop(); 
-console.log(frutas); // ["manzana", "banana"] 
-console.log(ultimaFruta); // "naranja"
+let principio =[4,5];
+principio.unshift(1,2,3);
 
 
 
